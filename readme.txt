@@ -2,6 +2,5 @@ GIT is a version control system
 GIT is a freesoftware 
 
 GIT is a version control systemsssss
-clndl
-
-asdfg
+GIT is a version control systemsssssssssss
+GIT is a version control systemssssssssssssssss
